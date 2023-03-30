@@ -25,7 +25,6 @@ const CreatePostWizard = () => {
     }
   });
 
-  console.log(user?.id);
   if (!user) return null;
 
   return (
