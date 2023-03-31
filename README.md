@@ -3,4 +3,4 @@ T3 Stack Tutorial from Theo - t3․gg in Youtube
 - Link to his channel: https://www.youtube.com/@t3dotgg
 
 My website on Vercel:
-- 
+- https://chirp-gwxrkscf5-guilhermefrag.vercel.app/
